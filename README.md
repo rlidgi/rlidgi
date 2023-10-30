@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi I'm Yaron. I'm currently a Masters student in Applied Statistics. I am planning to be a Actuary, and have several preliminary exams passed. I have experience
+I'm Yaron. I'm currently a Masters student in Applied Statistics. I am planning to be a Actuary, and have several preliminary exams passed. I have experience
 programming in R, Python, SAS, C++, and VB.net. Additionally, I have extensive experience with statistical analysis and machine learning.
 
 <!--
