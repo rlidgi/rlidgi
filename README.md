@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Yaron. I'm currently a Masters student in Applied Statistics. I am planning to be a Actuary, and have several preliminary exams passed. I have experience
-programming in R, Python, SAS, C++, and VB.net. Additionally, I have extensive experience with statistical analysis and machine learning.
+I'm Yaron. I'm currently a Masters student in Applied Statistics. I have experience
+programming in R, Python, and SAS. Additionally, I have extensive experience with statistical analysis and machine learning.
 
 <!--
 **rlidgi/rlidgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
